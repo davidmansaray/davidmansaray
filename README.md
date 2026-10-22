@@ -1,8 +1,10 @@
 # David Mansaray
 
-I'm a product engineer, curious about solving problems elegantly with technology.
+I'm a product engineer. I like asking what's getting in someone's way, and what we could make that would help.
 
-I like working through the whole problem, from the user experience and interface to the workflows and backend systems underneath. The aim is a solution that helps people get things done, supports the business behind it and is practical for engineers to build, run and maintain.
+I enjoy experimenting with new technologies and different ways of approaching a problem. Often that means building something small enough to learn from, then following the questions it raises.
+
+How should it feel to use? What makes it worthwhile for the business? What happens behind the scenes when something fails, or the team needs to change it? Finding a way for those pieces to work together is the part I enjoy.
 
 ## Selected work
 
