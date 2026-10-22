@@ -1,6 +1,6 @@
 # David Mansaray
 
-I'm a curious problem solver, interested in how people organise information, coordinate work and make decisions.
+I'm a product engineer, curious about how people organise information, coordinate work and make decisions.
 
 That takes me into business workflows, AI-assisted tools and the systems that keep them running. I like understanding what someone is trying to do, designing an interface that makes the next step clear, and working through the engineering so it holds up when things change or fail.
 
