@@ -1,8 +1,8 @@
 # David Mansaray
 
-I'm curious about how products take shape: understanding a problem, deciding what to build, designing the interface and engineering the software behind it.
+I'm a curious problem solver, interested in how people organise information, coordinate work and make decisions.
 
-I like following a question through to a useful first version, then looking at what it helps someone do and what still needs to change. These projects share the work and the decisions underneath it.
+That takes me into business workflows, AI-assisted tools and the systems that keep them running. I like understanding what someone is trying to do, designing an interface that makes the next step clear, and working through the engineering so it holds up when things change or fail.
 
 ## Selected work
 
