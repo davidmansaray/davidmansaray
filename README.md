@@ -4,7 +4,7 @@ Hi! 👋 I'm a product engineer. I like understanding what's getting in the way 
 
 Often that means building something small enough to learn from, then following the questions it raises.
 
-What will have the most impact on the business? How should it feel to use? What happens behind the scenes when something fails, or the team needs to change it? Finding a way for those pieces to work together is what I really enjoy.
+What will have the most impact on the business? How should it feel to use? What happens behind the scenes when something fails, or the team needs to change it? Bringing those pieces together through design and engineering, in a way that benefits everyone involved, is what I really enjoy.
 
 ## Selected work
 
