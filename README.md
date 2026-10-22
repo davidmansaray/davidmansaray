@@ -34,5 +34,6 @@ A 3D shelf-design tool. Turn a photo into an adjustable 3D model and a draft cut
 
 An explorable 3D world built from real map data. I'm exploring how familiar streets can become places to play, discover and connect with local businesses.
 
+[Explore the world](https://world.yondilo.com/)
 
 More projects and the thinking behind them at [davidmansaray.com](https://davidmansaray.com). [Get in touch](https://davidmansaray.com/#contact).
