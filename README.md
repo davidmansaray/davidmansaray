@@ -8,6 +8,14 @@ How should it feel to use? What makes it worthwhile for the business? What happe
 
 ## Selected work
 
+### [Yondilo](https://world.yondilo.com/)
+
+An explorable 3D neighbourhood prototype built from real map data. Yondilo turns a mapped part of Hackney, from the Rio Cinema to Hackney Town Hall, into a browser world you can walk through.
+
+### [Semblaro Studio](https://app.semblaro.com/)
+
+A shelf-design demo that starts from a prepared photo. Adjust the size and layout in 3D, then create a draft build pack for a maker.
+
 ### [Fellwise](https://github.com/davidmansaray/fellwise)
 
 An outdoor-experiences marketplace demo built with Laravel and Filament. An editor changes a listing and presses Save. When does the booking system see it? Fellwise makes delivery, failures and recovery visible, with the controls to investigate and put things right.
