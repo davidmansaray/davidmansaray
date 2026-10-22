@@ -22,7 +22,7 @@ An outdoor-experiences marketplace demo built with Laravel and Filament. An edit
 
 ### [Semblaro](https://app.semblaro.com/)
 
-A 3D shelf-design tool. Turn a prepared photo into an adjustable 3D model and a draft cut list for a maker.
+A 3D shelf-design tool. Turn a photo into an adjustable 3D model and a draft cut list for a maker.
 
 ### [Yondilo](https://world.yondilo.com/)
 
