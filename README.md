@@ -1,8 +1,8 @@
 # David Mansaray
 
-I'm a product engineer, curious about how people organise information, coordinate work and make decisions.
+I'm a product engineer, curious about solving problems elegantly with technology.
 
-That takes me into business workflows, AI-assisted tools and the systems that keep them running. I like understanding what someone is trying to do, designing an interface that makes the next step clear, and working through the engineering so it holds up when things change or fail.
+I like working through the whole problem, from the user experience and interface to the workflows and backend systems underneath. The aim is a solution that helps people get things done, supports the business behind it and is practical for engineers to build, run and maintain.
 
 ## Selected work
 
