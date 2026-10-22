@@ -8,20 +8,6 @@ How should it feel to use? What makes it worthwhile for the business? What happe
 
 ## Selected work
 
-### [Yondilo](https://world.yondilo.com/)
-
-An explorable 3D neighbourhood prototype built from real map data. Yondilo turns a mapped part of Hackney, from the Rio Cinema to Hackney Town Hall, into a browser world you can walk through.
-
-### [Semblaro Studio](https://app.semblaro.com/)
-
-A shelf-design demo that starts from a prepared photo. Adjust the size and layout in 3D, then create a draft build pack for a maker.
-
-### [Fellwise](https://github.com/davidmansaray/fellwise)
-
-An outdoor-experiences marketplace demo built with Laravel and Filament. An editor changes a listing and presses Save. When does the booking system see it? Fellwise makes delivery, failures and recovery visible, with the controls to investigate and put things right.
-
-[Try the demo](https://fellwise.davidmansaray.com)
-
 ### [Outboss](https://github.com/davidmansaray/outboss)
 
 An outreach workspace built with Laravel and Vue. Who is this person, what have we already said, and what should happen next? Outboss keeps people, campaigns and replies connected, with an explicit review before sending.
@@ -33,5 +19,19 @@ The repository includes a local demo with sample data and simulated mail provide
 A control room for people and agents managing hire bookings, built with Next.js, TypeScript and Mastra. A booking can change while an agent is working on it. Switchboard keeps drafts, evidence and approvals tied to the current booking, and makes recovery something you can follow.
 
 [Try the demo](https://switchboard.davidmansaray.com) — sample data, a scripted model by default and simulated email.
+
+### [Fellwise](https://github.com/davidmansaray/fellwise)
+
+An outdoor-experiences marketplace demo built with Laravel and Filament. An editor changes a listing and presses Save. When does the booking system see it? Fellwise makes delivery, failures and recovery visible, with the controls to investigate and put things right.
+
+[Try the demo](https://fellwise.davidmansaray.com)
+
+### [Semblaro](https://app.semblaro.com/)
+
+A 3D shelf-design tool. Start from a prepared photo, adjust the size and layout, then create a draft build pack for a maker.
+
+### [Yondilo](https://world.yondilo.com/)
+
+An explorable 3D neighbourhood built from real map data. Yondilo turns a mapped part of Hackney, from the Rio Cinema to Hackney Town Hall, into a browser world you can walk through.
 
 More projects and the thinking behind them at [davidmansaray.com](https://davidmansaray.com).
